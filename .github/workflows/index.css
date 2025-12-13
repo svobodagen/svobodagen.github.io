@@ -1,0 +1,1 @@
+/* index.css — základní fallback styly */ :root { --bg: #f1f5f9; --text: #0f172a; } html, body, #root { height: 100%; } body { margin: 0; background: var(--bg); color: var(--text); -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
